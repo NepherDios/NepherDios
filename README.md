@@ -45,5 +45,5 @@ I love low-level control and system programming — building things that run fas
 - Build custom test and automation frameworks  
 - Master C and Assembly for full system control
 
--If you can't build anything without AI, you were never meant to be a programmer!!
----That's what i wish to achieve, i want to be able to build anything i want, not to depend on AI which i don't trust fully --_0-0_--
+-If you can't build anything without AI, you were never meant to be a programmer!
+-That's what i wish to achieve, i want to be able to build anything i want, not to depend on AI which i don't trust fully --_0-0_--
