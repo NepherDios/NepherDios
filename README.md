@@ -14,23 +14,23 @@ I love low-level control and system programming — building things that run fas
 ---
 
 ### 🧩 What I’m Into
-- 🧱 Systems programming & OS internals  
-- 🧮 Automation and integration testing on Linux  
-- 🧰 Building modular C frameworks  
-- 🤖 Virtual robotics & AI simulations  
-- 💡 Learning how everything works under the hood  
+- 🧱 Systems programming & OS internals
+- 🧮 Automation and integration testing on Linux
+- 🧰 Building modular C frameworks
+- 🤖 Virtual robotics & AI simulations
+- 💡 Learning how everything works under the hood
 
 ---
 
 ### 🧪 Current Focus
-- Deep diving into C (pointers, memory, modular design)  
-- Studying Python testing frameworks (pytest, unittest)  
-- Exploring assembly and computer architecture  
+- Deep diving into C (pointers, memory, modular design)
+- Studying Python testing frameworks (pytest, unittest)
+- Exploring assembly and computer architecture
 
 ---
 
 ### 🔧 Tools & Environments
-- Linux (main environment 🐧)  
+- Linux
 - GCC, GDB, Make, Valgrind  
 - Git & GitHub Actions  
 - VS Code / Vim  
@@ -47,6 +47,6 @@ I love low-level control and system programming — building things that run fas
 
 ---
 
--If you can't build anything without AI, you were never meant to be a programmer!
+-If you can't build anything without AI, you were never meant to be a programmer! -_-
 
 -That's what i wish to achieve, i want to be able to build anything i want, not to depend on AI which i don't trust fully `--_0-0_--`
