@@ -43,13 +43,7 @@ I love low-level control and system programming — building things that run fas
 
 - Develop my own modular car simulator in C  
 - Build custom test and automation frameworks  
-- Master C and Assembly for full system control  
+- Master C and Assembly for full system control
 
----
-
-### 🌐 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-RuiMoreira-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RuiMoreira-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-
----
-⭐ *“Code close to the metal. Think close to the mind.”*
+-- If you can't build anything without AI, you were never meant to be a programmer!!
+--That's what i wish to achieve, i want to be able to build anything i want, not to depend on AI which i don't trust fully --_0-0_--
