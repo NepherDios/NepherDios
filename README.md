@@ -49,4 +49,4 @@ I love low-level control and system programming — building things that run fas
 
 -If you can't build anything without AI, you were never meant to be a programmer! -_-
 
--That's what i wish to achieve, i want to be able to build anything i want, not to depend on AI which i don't trust fully `--_0-0_--`
+-That's what i wish to achieve, i want to be able to build anything i want, not to depend on AI which i don't trust `--_0-0_--`
