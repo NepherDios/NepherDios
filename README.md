@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rui Moreira
+# 👋 Hey there, I'm Rui
 
 ### 🧠 Main Programming Focus
 - C/C++  
