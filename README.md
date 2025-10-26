@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Rui Moreira
 
 ### 🧠 Main Programming Focus
-- C  
+- C/C++  
 - Python  
 - Bash  
 - Java  
