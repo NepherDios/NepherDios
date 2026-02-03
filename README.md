@@ -6,8 +6,8 @@
 - Bash  
 - Java  
 - JavaScript  
-- COBOL  
 - Assembly  
+- C# 
 
 I love low-level control and system programming — building things that run fast, efficiently, and close to the hardware ⚙️
 
@@ -19,6 +19,7 @@ I love low-level control and system programming — building things that run fas
 - 🧰 Building modular C frameworks
 - 🤖 Virtual robotics & AI simulations
 - 💡 Learning how everything works under the hood
+- 🎮 Game development
 
 ---
 
