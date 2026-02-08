@@ -4,8 +4,6 @@
 - C/C++  
 - Python  
 - Bash  
-- Java  
-- JavaScript  
 - Assembly
 
 I love low-level control and system programming — building things that run fast, efficiently, and close to the hardware ⚙️
